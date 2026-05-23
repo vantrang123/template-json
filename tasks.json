@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Market Research",
+    "description": "Research grocery shopping competitors and user behavior",
+    "category": "In Progress",
+    "priority": "high",
+    "completed": false,
+    "time": "10:00 AM",
+    "date": "2026-05-23",
+    "createdAt": "2026-05-23T10:00:00Z",
+    "updatedAt": "2026-05-23T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Competitive Analysis",
+    "description": "Compare top grocery delivery applications",
+    "category": "In Progress",
+    "priority": "medium",
+    "completed": false,
+    "time": "12:00 PM",
+    "date": "2026-05-23",
+    "createdAt": "2026-05-23T12:00:00Z",
+    "updatedAt": "2026-05-23T12:20:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Create Low-fidelity Wireframe",
+    "description": "Sketch the first version of the app screens",
+    "category": "To do",
+    "priority": "high",
+    "completed": false,
+    "time": "07:00 PM",
+    "date": "2026-05-23",
+    "createdAt": "2026-05-23T19:00:00Z",
+    "updatedAt": "2026-05-23T19:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "How to pitch a Design Sprint",
+    "description": "Prepare presentation slides for sprint pitching",
+    "category": "To do",
+    "priority": "low",
+    "completed": false,
+    "time": "09:00 PM",
+    "date": "2026-05-23",
+    "createdAt": "2026-05-23T21:00:00Z",
+    "updatedAt": "2026-05-23T21:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Update UI Components",
+    "description": "Refactor reusable widgets and buttons",
+    "category": "Completed",
+    "priority": "medium",
+    "completed": true,
+    "time": "03:00 PM",
+    "date": "2026-05-22",
+    "createdAt": "2026-05-22T15:00:00Z",
+    "updatedAt": "2026-05-22T16:10:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Fix Notification Bug",
+    "description": "Resolve push notification issue on Android",
+    "category": "Completed",
+    "priority": "high",
+    "completed": true,
+    "time": "05:00 PM",
+    "date": "2026-05-22",
+    "createdAt": "2026-05-22T17:00:00Z",
+    "updatedAt": "2026-05-22T18:30:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Prepare User Interview",
+    "description": "Write interview questions for beta users",
+    "category": "To do",
+    "priority": "medium",
+    "completed": false,
+    "time": "08:30 AM",
+    "date": "2026-05-24",
+    "createdAt": "2026-05-24T08:30:00Z",
+    "updatedAt": "2026-05-24T08:30:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Implement Dark Mode",
+    "description": "Add dark theme support for the application",
+    "category": "In Progress",
+    "priority": "high",
+    "completed": false,
+    "time": "02:00 PM",
+    "date": "2026-05-24",
+    "createdAt": "2026-05-24T14:00:00Z",
+    "updatedAt": "2026-05-24T15:15:00Z"
+  }
+]
